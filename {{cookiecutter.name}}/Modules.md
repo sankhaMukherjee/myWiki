@@ -12,7 +12,7 @@ to the associated API for each module.
 | Type | Information                                                            |
 |------|------------------------------------------------------------------------|
 | Path | [`modules1/module1.py`](../blob/master/src/modules/module1/module1.py) |
-| API  | [link]({{cookiecutter.APIbase}}/modules.module1.html)                  |
+| API  | [link]({{cookiecutter.api_base}}/modules.module1.html)                  |
 
 #### Description 
 
