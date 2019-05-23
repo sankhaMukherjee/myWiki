@@ -1,6 +1,7 @@
 {
 
-    "name"      : "{{name.wiki}}",
-    "API-base"  : "https://sankhamukherjee.github.io/name",
-    "remote"    : "git@github.com:sankhaMukherjee/name.wiki.git"
+    "baseName"  : "name",
+    "name"      : "{{baseName}}.wiki",
+    "API-base"  : "https://sankhamukherjee.github.io/{{baseName}}",
+    "remote"    : "git@github.com:sankhaMukherjee/{{baseName}}.wiki.git"
 }
