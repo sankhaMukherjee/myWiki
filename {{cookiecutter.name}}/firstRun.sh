@@ -1,3 +1,5 @@
+#!/bin/bash
+
 git init
 git remote add origin {{cookiecutter.remote}}
 git add .
