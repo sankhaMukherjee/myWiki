@@ -9,9 +9,9 @@
     2.2. [Modules](./Modules)
 
 3. API
-    3.1. [API Reference]({{api_base}}/index.html)
-    3.2. [Index]({{api_base}}/genindex.html)
-    3.3. [Module Index]({{api_base}}/py-modindex.html)
+    3.1. [API Reference]({{cookiecutter.api_base}}/index.html)
+    3.2. [Index]({{cookiecutter.api_base}}/genindex.html)
+    3.3. [Module Index]({{cookiecutter.api_base}}/py-modindex.html)
     3.4. [Generating the API reference](./Generating-the-API-Reference)
 4. [Contributing](./Contributing)
 
